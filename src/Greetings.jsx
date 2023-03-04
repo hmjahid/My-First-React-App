@@ -1,3 +1,5 @@
+import Invitation from "./Invitation";
+
 function Starter(){
     return (
     <p>Starting By The Name Of Almighty ALLAH....</p>
@@ -13,7 +15,10 @@ const Greetings = function (){
 }
 const Introduction = () => {
     return(
-        <h4>Thanks for visiting my site</h4>
+        <div>
+            <h4>Thanks for visiting my site</h4>
+            <Invitation/>
+        </div>
     );
 }
 
