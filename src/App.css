@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#Name{
+  background-color: aqua;
+  color: magenta;
+  font-size: 48px;
 }
