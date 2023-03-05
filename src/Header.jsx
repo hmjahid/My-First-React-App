@@ -1,12 +1,14 @@
+import "./Header.css";
+
 const Header = () => {
     return (
-        <h1>My Personal Details:</h1>  
+        <h1 className="Header">My Personal Details:</h1>  
     );    
 }
 
 function SubHeader(){
     return (
-        <h2>(My professional informations)</h2>
+        <h2 className="SubHeader">(My professional informations)</h2>
     );  
 }
 

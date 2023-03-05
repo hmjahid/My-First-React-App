@@ -1,0 +1,11 @@
+.Experience{
+    background-color: lightgreen;
+    color: black;
+    padding-bottom: 20px;
+}
+
+.title{
+    font-size: 28px;
+    color: rgb(244, 16, 225);
+    font-style: italic;
+}

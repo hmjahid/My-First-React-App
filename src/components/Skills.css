@@ -1,0 +1,13 @@
+.Skill{
+    background-color: crimson;
+    padding-bottom: 5px;
+}
+
+ul{
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+
+}
