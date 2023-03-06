@@ -2,7 +2,7 @@ import Invitation from "./Invitation";
 
 function Starter(){
     return (
-    <p style={{color: "red"}}>Starting By The Name Of Almighty ALLAH....</p>
+    <p style={{color: "red", margin: 0}}>Starting By The Name Of Almighty ALLAH....</p>
     );
 }
 const Greetings = function (){

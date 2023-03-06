@@ -1,5 +1,5 @@
-import React from 'react'
 import "./Skills.css"
+import propTypes from 'prop-types'
 
 const Skills = (props) => {
   return (
@@ -16,6 +16,14 @@ const Skills = (props) => {
       </ul>
     </div>
   );
+}
+
+Skills.propTypes = {
+  title: propTypes.string
+}
+
+Skills.defaultProps = {
+  title: "Title"
 }
 
 export default Skills;
