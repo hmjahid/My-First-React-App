@@ -19,7 +19,11 @@ function App() {
       <h2 className='Profession'>Front End Developer</h2>
       <h3 className='dateOfBirth'>Date of Birth : {dateOfBirth}</h3>
       <Skills title= "My Skills:"/>
-      <Experience position1="Office Assistant Cum Computer Operator" position2="Computer Numerical Control Operator, Machinist and Programmer"/>
+      <Experience 
+          position1="Office Assistant Cum Computer Operator"
+          position2="Computer Numerical Control Operator, Machinist and Programmer" 
+          company="at Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
+          />
     </div>
   );
 }
