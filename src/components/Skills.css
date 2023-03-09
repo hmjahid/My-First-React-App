@@ -1,10 +1,16 @@
 .Skill{
-    background-color: crimson;
-    padding-bottom: 5px;
+    background: linear-gradient(rgb(232, 51, 232), rgb(176, 139, 35) );
+    padding: 10px 30px 20px 0px;
+    color: white;
+}
+
+h2{
+    margin: 0px 0px 0px 35px;
 }
 
 ul{
     justify-content: center;
+    text-align: center;
 }
 
 li{
