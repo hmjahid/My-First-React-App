@@ -1,7 +1,6 @@
 .App {
   text-align: center;
-  background-color: black;
-  color: white;
+  color: rgb(20, 20, 20);
 }
 
 .App-logo {
@@ -40,7 +39,19 @@
 }
 
 #Name{
-  background-color: aqua;
-  color: magenta;
   font-size: 48px;
+}
+
+.SkillDiv{
+  margin:0;
+  padding: 0;
+}
+
+.dateOfBirth {
+  margin-bottom: 0;
+}
+
+.Intro{
+  background: linear-gradient(rgb(115, 223, 98), rgb(154, 37, 154)); 
+  padding-bottom: 16px;
 }
