@@ -5,6 +5,7 @@ import { Starter, Greetings, Introduction } from './components/Greetings';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Education from './components/Education';
+import Course from './components/Course';
 
 function App() {
   const dateOfBirth = "1st September, 1996"
@@ -30,7 +31,7 @@ function App() {
           company="at Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
       />
       <Education/>
-
+      <Course/>
     </div>
   );
 }
