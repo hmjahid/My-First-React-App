@@ -5,7 +5,7 @@ import propTypes from 'prop-types'
 const Experience = (props) => {
   return (
     <div className='Experience'>
-        <h2>Experiences</h2>
+        <h2 className="ExperienceHeading">Experiences</h2>
 
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>

@@ -13,3 +13,9 @@
 .ExperienceDetails{
     padding-bottom: 5px;
 }
+
+.ExperienceHeading{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    margin: 8px 25px 0px 25px;
+}
