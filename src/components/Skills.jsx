@@ -4,7 +4,7 @@ import propTypes from 'prop-types'
 const Skills = (props) => {
   return (
     <div className='Skill'>
-      <h2>{props.title}</h2>
+      <h2 className="SkillHeading">{props.title}</h2>
       <ul>
         <li>HTML5</li>
         <li>CSS3</li>

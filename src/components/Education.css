@@ -9,5 +9,7 @@
 }
 
 .EducationHeading {
-    margin-left: 5px;
+    margin: 5px 25px 0px 25px;
+    background-color: rgb(255, 255, 255);
+    color: blue;
 }
