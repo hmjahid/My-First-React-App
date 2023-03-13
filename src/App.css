@@ -40,6 +40,7 @@
 
 #Name{
   font-size: 48px;
+  color: white;
 }
 
 .SkillDiv{
@@ -49,9 +50,14 @@
 
 .dateOfBirth {
   margin-bottom: 0;
+  color: white;
 }
 
 .Intro{
   background: linear-gradient(rgb(115, 223, 98), rgb(154, 37, 154)); 
   padding-bottom: 16px;
+}
+
+.Profession{
+  color: white;
 }
