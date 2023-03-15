@@ -20,7 +20,7 @@ const Experience = (props) => {
         <h3 className='title'>{props.position1}</h3>
         <Company company={props.company}/>
         <h4>* March 2016 - April 2016 *</h4>
-        <p>Assisted HR manager in preparing payroll and sales department to entry data in database. I also worked in QC department as a QC Inspector. Assisted HR manager in preparing payroll and sales department to entry data in database. I also worked in QC department as a QC Inspector.</p>
+        <p>Assisted HR manager in preparing payroll and sales department to entry data in database. I also worked in QC department as a QC Inspector.</p>
         <strong>Skills: Microsoft Word · Microsoft Excel · Data Entry · Computer Literacy · Assistants · Quality Control</strong>
         </div>
     </div>
