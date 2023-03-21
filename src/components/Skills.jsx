@@ -14,6 +14,7 @@ const Skills = (props) => {
         <li>Git</li>
         <li>GitHub</li>
         <li>Linux</li>
+        <li>FreeBSD</li>
       </ul>
     </div>
   );
