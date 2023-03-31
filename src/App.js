@@ -27,7 +27,7 @@ function App() {
       </div>
       <Experience 
           position1="Office Assistant Cum Computer Operator"
-          position2="Computer Numerical Control Operator, Machinist and Programmer" 
+          position2="CNC Operator, Machinist and Programmer" 
           company="at Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
       />
       <Education/>
