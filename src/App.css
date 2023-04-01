@@ -61,3 +61,8 @@
 .Profession{
   color: white;
 }
+
+marquee {
+  font-weight: bold;
+  color: rgb(200, 20, 164);
+}

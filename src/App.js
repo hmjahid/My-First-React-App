@@ -15,6 +15,7 @@ function App() {
     <div className='Intro'>
       <Starter/>
       <Greetings/>
+      <marquee behavior="" direction="">***Development Of This Site On Going***</marquee>
       <Introduction/>
       <Header/>
       <SubHeader/>
