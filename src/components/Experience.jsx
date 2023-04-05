@@ -17,6 +17,8 @@ const Experience = (props) => {
         <strong>Skills: CNC Machine · Quality Assurance · Machining · Team Leadership · Lathe · Computer Numerical Control CNC · CNC Manufacturing · CNC Mill · CNC Operation</strong>
         </div>
 
+        <br/>
+        
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position1}</h3>
         <Company company={props.company}/>
