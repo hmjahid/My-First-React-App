@@ -7,6 +7,7 @@ const Experience = (props) => {
     <div className='Experience'>
         <h2 className="ExperienceHeading">Experiences</h2>
 
+        <section className="ExperienceSection">
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>
@@ -23,6 +24,7 @@ const Experience = (props) => {
         <p>Assisted HR manager in preparing payroll and sales department to entry data in database. I also worked in QC department as a QC Inspector.</p>
         <strong>Skills: Microsoft Word · Microsoft Excel · Data Entry · Computer Literacy · Assistants · Quality Control</strong>
         </div>
+        </section>
     </div>
   );
 }
