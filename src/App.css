@@ -54,7 +54,7 @@
 }
 
 .Intro{
-  background: linear-gradient(rgb(115, 223, 98), rgb(154, 37, 154)); 
+  background: linear-gradient(90deg, rgba(0,212,255,1) 18%, rgba(34,9,121,0.4163866230085784) 43%, rgba(252,32,252,0.4163866230085784) 61%, rgba(2,0,36,1) 100%);
   padding-bottom: 16px;
 }
 

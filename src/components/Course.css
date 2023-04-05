@@ -1,6 +1,8 @@
 .Course {
-    background: linear-gradient(180deg, rgb(169, 216, 82), rgb(225, 104, 104));
-    padding: 10px 0px 10px 0px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,35,1) 68%, rgba(0,212,255,1) 100%);
+    padding: 10px 0px 15px 0px;
+    color: blanchedalmond;
+    height: 1000px;
 }
 
 .CourseHeading {
@@ -10,4 +12,8 @@
     border-radius: 8px;
     font-size: 32px;
     box-shadow: 5px 5px 1px 5px black;
+}
+
+.CourseSection {
+    padding-top: 300px;
 }

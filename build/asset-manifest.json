@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.475c65ee.css",
-    "main.js": "/static/js/main.1392651a.js",
+    "main.css": "/static/css/main.bae746fe.css",
+    "main.js": "/static/js/main.421bd97f.js",
     "static/media/MdJahidHasan.jpg": "/static/media/MdJahidHasan.eeff325d9c785a4915e7.jpg",
     "index.html": "/index.html",
-    "main.475c65ee.css.map": "/static/css/main.475c65ee.css.map",
-    "main.1392651a.js.map": "/static/js/main.1392651a.js.map"
+    "main.bae746fe.css.map": "/static/css/main.bae746fe.css.map",
+    "main.421bd97f.js.map": "/static/js/main.421bd97f.js.map"
   },
   "entrypoints": [
-    "static/css/main.475c65ee.css",
-    "static/js/main.1392651a.js"
+    "static/css/main.bae746fe.css",
+    "static/js/main.421bd97f.js"
   ]
 }

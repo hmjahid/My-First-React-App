@@ -6,8 +6,9 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Education from './components/Education';
 import Course from './components/Course';
-import MdJahidHasan from './components/MdJahidHasan.jpg'
-import { height } from '@mui/system';
+import MdJahidHasan from './components/MdJahidHasan.jpg';
+import Language from './components/Language';
+import Test from './components/Test.js';
 
 function App() {
   const dateOfBirth = "1st September, 1996"
@@ -32,10 +33,13 @@ function App() {
       <Experience 
           position1="Office Assistant Cum Computer Operator"
           position2="CNC Operator, Machinist and Programmer" 
-          company="at Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
+          company="Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
       />
       <Education/>
       <Course/>
+      <Language/>
+      <Test/>
+      
     </div>
   );
 }
